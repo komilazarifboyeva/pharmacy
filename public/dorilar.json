@@ -1,0 +1,60 @@
+{
+  "dorilar": [
+    {
+      "id": 1,
+      "nomi": "Paracetamol 500mg",
+      "kategoriya": "Og'riq qoldiruvchi",
+      "miqdor": 150,
+      "narx": 5000
+    },
+    {
+      "id": 2,
+      "nomi": "Amoxicillin 500mg",
+      "kategoriya": "Antibiotik",
+      "miqdor": 45,
+      "narx": 12000
+    },
+    {
+      "id": 3,
+      "nomi": "Ibuprofen 400mg",
+      "kategoriya": "Og'riq qoldiruvchi",
+      "miqdor": 80,
+      "narx": 8500
+    },
+    {
+      "id": 4,
+      "nomi": "Omeprazol 20mg",
+      "kategoriya": "Oshqozon",
+      "miqdor": 12,
+      "narx": 15000
+    },
+    {
+      "id": 5,
+      "nomi": "Cetirizine 10mg",
+      "kategoriya": "Allergiya",
+      "miqdor": 60,
+      "narx": 7000
+    },
+    {
+      "id": 6,
+      "nomi": "Metformin 500mg",
+      "kategoriya": "Diabet",
+      "miqdor": 8,
+      "narx": 9500
+    },
+    {
+      "id": 7,
+      "nomi": "Aspirin 100mg",
+      "kategoriya": "Yurak-qon tomir",
+      "miqdor": 200,
+      "narx": 3500
+    },
+    {
+      "id": 8,
+      "nomi": "Loratadine 10mg",
+      "kategoriya": "Allergiya",
+      "miqdor": 35,
+      "narx": 6500
+    }
+  ]
+}
